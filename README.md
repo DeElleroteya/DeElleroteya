@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeElleroteya
 - 👀 I’m interested in: novas tecnologias
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: desenvolvimento de robôs espaciais.
+- 💞️ I’m looking to collaborate on: desenvolvimento de novas tecnologias.
 - 📫 How to reach me: @deelleroteya
 
 <!---
